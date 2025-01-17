@@ -1,0 +1,1 @@
+"Работа с базами данных" Задание 19 https://docs.google.com/spreadsheets/d/1YVvyNvKpMM9P1nooqsKx1vK3Ei6w69LABfY_vGUZsNc/edit?usp=sharing [19.json](https://github.com/user-attachments/files/18449932/19.json)
